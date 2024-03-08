@@ -1,5 +1,8 @@
 #root {
 	background-color: #131520;
+	max-width: 1900px; /* Define el ancho máximo en píxeles */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    padding: 0 20px; /* Agrega un espacio de relleno opcional */
 
 }
 
