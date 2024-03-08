@@ -4,6 +4,7 @@ import ProductionHouse from './ProductionHouse';
 import Slider from './Slider';
 import ContentCategory from './ContentCategory';
 
+
 const Home = () => {
 
 	return (
@@ -12,6 +13,7 @@ const Home = () => {
 			<Slider />
 			<ProductionHouse />
 			<ContentCategory />
+
 		</div>
 	)
 }
